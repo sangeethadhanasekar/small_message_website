@@ -1,0 +1,49 @@
+1.movie name list  https://imdbpy.readthedocs.io/en/latest/
+                   https://stackoverflow.com/questions/52404483/imdbpy-get-genres-from-the-top-20-movies
+
+
+
+2.recent relese
+3.popular movies
+4.movie details :
+       *review
+       *img
+*dor
+       *cast
+*songs
+      *genre
+*triler link
+*ratings//
+*watching link
+*sumarry
+
+lastfm api=4589956f543e3d1c58d5230b76b73dbf
+
+
+
+
+
+
+
+
+
+
+
+<a data-testid="tm-box-pwo-btn" class="ipc-button ipc-button--full-width ipc-button--center-align-content ipc-button--large-height ipc-button--core-accent1 ipc-button--theme-baseAlt WatchBox__PrimaryWatchOptionButton-sc-1kx3ihk-0 cLzvdD" role="button" tabindex="0" aria-disabled="false" target="_blank" href="https://www.primevideo.com/detail/amzn1.dv.gti.6ab5ef5d-dd32-c5ab-3a8f-0aff6123c065"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="ipc-icon ipc-icon--play-circle-outline ipc-button__icon ipc-button__icon--pre" viewBox="0 0 24 24" fill="currentColor" role="presentation"><path d="M10.8 15.9l4.67-3.5c.27-.2.27-.6 0-.8L10.8 8.1a.5.5 0 0 0-.8.4v7c0 .41.47.65.8.4zM12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z"></path></svg><div class="ipc-button__text"><div class="WatchBox__PWO_Title-sc-1kx3ihk-1 jlBaNd">Watch on Prime Video<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="ipc-icon ipc-icon--launch ipc-icon--inline WatchBox__PWO_TitleIcon-sc-1kx3ihk-2 fBAFyx" viewBox="0 0 24 24" fill="currentColor" role="presentation"><path d="M16 16.667H8A.669.669 0 0 1 7.333 16V8c0-.367.3-.667.667-.667h3.333c.367 0 .667-.3.667-.666C12 6.3 11.7 6 11.333 6h-4C6.593 6 6 6.6 6 7.333v9.334C6 17.4 6.6 18 7.333 18h9.334C17.4 18 18 17.4 18 16.667v-4c0-.367-.3-.667-.667-.667-.366 0-.666.3-.666.667V16c0 .367-.3.667-.667.667zm-2.667-10c0 .366.3.666.667.666h1.727L9.64 13.42a.664.664 0 1 0 .94.94l6.087-6.087V10c0 .367.3.667.666.667.367 0 .667-.3.667-.667V6h-4c-.367 0-.667.3-.667.667z"></path></svg></div><div class="WatchBox__PWO_SubTitle-sc-1kx3ihk-3 ftpeBn">included with Prime</div></div></a>
+
+
+
+<div class="ipc-photo ipc-photo--base ipc-photo--dynamic-width photos-image ipc-sub-grid-item ipc-sub-grid-item--span-2" role="group"><div class="ipc-media ipc-media--photo ipc-image-media-ratio--photo ipc-media--base ipc-media--photo-m ipc-photo__photo-image ipc-media__img" style="width:100%"><img alt="3 Idiots (2009)" class="ipc-image" loading="lazy" src="https://m.media-amazon.com/images/M/MV5BNWQ5YTc5ZDQtOTkzYS00ODRlLTlkMDEtNjU1MjcyMDVkMDIwL2ltYWdlXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UY140_CR61,0,140,140_.jpg" srcset="https://m.media-amazon.com/images/M/MV5BNWQ5YTc5ZDQtOTkzYS00ODRlLTlkMDEtNjU1MjcyMDVkMDIwL2ltYWdlXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UY140_CR61,0,140,140_.jpg 140w, https://m.media-amazon.com/images/M/MV5BNWQ5YTc5ZDQtOTkzYS00ODRlLTlkMDEtNjU1MjcyMDVkMDIwL2ltYWdlXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UY210_CR92,0,210,210_.jpg 210w, https://m.media-amazon.com/images/M/MV5BNWQ5YTc5ZDQtOTkzYS00ODRlLTlkMDEtNjU1MjcyMDVkMDIwL2ltYWdlXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_QL75_UY280_CR122,0,280,280_.jpg 280w" sizes="25vw, (min-width: 480px) 17vw, (min-width: 600px) 13vw, (min-width: 1024px) 8vw, (min-width: 1280px) 8vw" width="140"></div><a data-testid="photos-image-overlay-1" class="ipc-lockup-overlay ipc-focusable" href="/title/tt1187043/mediaviewer/rm976304640/?ref_=tt_md_1" aria-label="3 Idiots (2009)"><div class="ipc-lockup-overlay__screen"></div></a></div>
+
+
+
+
+class="ipc-photo ipc-photo--base ipc-photo--dynamic-width photos-image ipc-sub-grid-item ipc-sub-grid-item--span-2"
+
+class="ipc-photo ipc-photo--base ipc-photo--dynamic-width photos-image ipc-sub-grid-item ipc-sub-grid-item--span-2"
+
+
+ipc-media ipc-media--photo ipc-image-media-ratio--photo ipc-media--base ipc-media--photo-m ipc-photo__photo-image ipc-media__img
+ipc-media ipc-media--photo ipc-image-media-ratio--photo ipc-media--base ipc-media--photo-m ipc-photo__photo-image ipc-media__img
+
+
